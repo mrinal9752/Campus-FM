@@ -26,9 +26,7 @@ Campus FM allows students to discover music, submit song requests, and listen to
 
 ---
 
-## 🖼️ Website Screenshots
 
-> Replace the placeholder image paths below with your actual screenshots. Create a `screenshots` folder in the repository and put the images inside it.
 
 ### 🏠 Homepage
 
