@@ -34,86 +34,31 @@ Campus FM allows students to discover music, submit song requests, and listen to
 
 ![Campus FM Homepage](screenshots/homepage.png)
 
-**Screenshot space:**
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│              ADD HOMEPAGE SCREENSHOT HERE                   │
-│                                                              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
 
 ### 📻 Radio Station
 
 ![Campus FM Radio Station](screenshots/radio-station.png)
 
-**Screenshot space:**
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│            ADD RADIO STATION SCREENSHOT HERE                │
-│                                                              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
 
 ### 🎵 Song Request
 
 ![Song Request](screenshots/song-request.png)
 
-**Screenshot space:**
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│             ADD SONG REQUEST SCREENSHOT HERE                 │
-│                                                              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
 
 ### 👨‍💼 Admin Dashboard
 
 ![Campus FM Admin Dashboard](screenshots/admin-dashboard.png)
 
-**Screenshot space:**
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│            ADD ADMIN DASHBOARD SCREENSHOT HERE              │
-│                                                              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
 
 ### 🎧 Radio Queue / Now Playing
 
 ![Radio Queue](screenshots/radio-queue.png)
 
-**Screenshot space:**
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│              ADD RADIO QUEUE SCREENSHOT HERE                │
-│                                                              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
 
 ## 🏗️ System Architecture
 
